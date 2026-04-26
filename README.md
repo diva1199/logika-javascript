@@ -43,3 +43,8 @@ node soal2.js
 node soal3.js
 node soal4.js
 node soal5.js
+```
+
+## Clone repository:
+   ```bash
+   git clone https://github.com/diva1199/logika-javascript.git
